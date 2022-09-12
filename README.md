@@ -1,5 +1,5 @@
 <details>
-  <summary>Architect by day, Developer by night</summary>
+  <summary>Get to know Witt</summary>
 </details>
 
 [![Donate on PayPal](https://img.shields.io/badge/Donate-PayPal-%2300457C?style=for-the-badge&logo=paypal)](https://paypal.me/adamewitt)
