@@ -10,8 +10,6 @@
 
 <br />
 
-[![Wittyphantom333's GitHub stats](https://github-readme-stats.vercel.app/api?username=wittyphantom333)](https://github.com/wittyphantom333/github-readme-stats)
-
 <table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="padding=0;width=50%;border: none;">
