@@ -13,10 +13,10 @@
 <table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="padding=0;width=50%;border: none;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
     </td>
     <td align="center" style="padding=0;width=50%;border: none;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
