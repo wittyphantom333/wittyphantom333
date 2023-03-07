@@ -5,6 +5,7 @@
 <p align="center">
   <img width="500" height="500" src="https://i.imgur.com/QFw0fla.png">
 </p>
+
 <table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="padding=0;width=50%;border: none;">
@@ -17,16 +18,22 @@
   </tr>
 </table>
 
+<table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="padding=0;width=50%;border: none;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+    </td>
+    <td align="center" style="padding=0;width=50%;border: none;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
+    </td>
+    <td align="center" style="padding=0;width=50%;border: none;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
 <br />
 
-<h1 align="center">Hi 👋, I am Witt</h1>
-<h3 align="center">no breaks, no sleep</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wittyphantom333&label=Profile%20views&color=0e75b6&style=flat" alt="wittyphantom333" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wittyphantom333" alt="wittyphantom333" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wittyphantom333" target="blank"><img src="https://img.shields.io/twitter/follow/wittyphantom333?logo=twitter&style=for-the-badge" alt="wittyphantom333" /></a> </p>
 
 - 🔭 I’m currently working on [Converting FiveM to run on Kubernetes](https://github.com/wittyphantom333/infrastructure-fivem)
 
@@ -47,6 +54,12 @@
 - 📄 Know about my experiences [The Cloud](The Cloud)
 
 - ⚡ Fun fact **square + triangle = circle**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wittyphantom333&label=Profile%20views&color=0e75b6&style=flat" alt="wittyphantom333" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wittyphantom333" alt="wittyphantom333" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/wittyphantom333" target="blank"><img src="https://img.shields.io/twitter/follow/wittyphantom333?logo=twitter&style=for-the-badge" alt="wittyphantom333" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
