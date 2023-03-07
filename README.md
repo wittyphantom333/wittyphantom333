@@ -9,22 +9,10 @@
 <table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="padding=0;width=50%;border: none;">
-     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wittyphantom333&show_icons=true&locale=en&layout=compact" alt="wittyphantom333" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&locale=en" alt="wittyphantom333" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wittyphantom333&" alt="wittyphantom333" /></p>
-    </td>
-  </tr>
-</table>
-
-<table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="padding=0;width=50%;border: none;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
     </td>
     <td align="center" style="padding=0;width=50%;border: none;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" alt="wittyphantom333" />
     </td>
     <td align="center" style="padding=0;width=50%;border: none;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
