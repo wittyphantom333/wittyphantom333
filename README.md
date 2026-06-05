@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/wittyphantom333">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Adam+%E2%9C%8C%EF%B8%8F;Cloud-native+tinkerer+%26+infra+nerd;Breaking+monoliths%2C+shipping+microservices;%E2%9A%99%EF%B8%8F+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Go+%E2%80%A2+Node;%E2%9A%A1+square+%2B+triangle+%3D+circle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Witt+%E2%9C%8C%EF%B8%8F;Cloud-native+tinkerer+%26+infra+nerd;Breaking+monoliths%2C+shipping+microservices;%E2%9A%99%EF%B8%8F+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Go+%E2%80%A2+Node;%E2%9A%A1+square+%2B+triangle+%3D+circle" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -36,7 +36,7 @@
 ## 🧠 // whoami
 
 ```yaml
-name:       Adam
+name:       Witt
 alias:      wittyphantom333
 role:       Cloud / DevOps Engineer
 location:   The Cloud ☁️
