@@ -118,18 +118,7 @@ fun_fact:   "square + triangle = circle"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
-<img height="170" src="https://streak-stats.demolab.com/?user=wittyphantom333&hide_border=true&theme=dracula" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&hide_border=true&count_private=true&layout=compact&theme=dracula&langs_count=8" />
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=wittyphantom333&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
-</a>
+<img height="170" src="https://streak-stats.demolab.com/?user=wittyphantom333&hide_border=true&theme=dracula" alt="streak stats" />
 
 <br/><br/>
 
