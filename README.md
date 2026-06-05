@@ -1,7 +1,7 @@
 <!-- ✦✦✦ HERO ✦✦✦ -->
 <div align="center">
 
-<a href="https://wittsgarage.com">
+<a href="https://adamewitt.com">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=Wittyphantom333&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%E2%80%A2%20MLOps%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20Microservices&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<a href="https://wittsgarage.com"><img src="https://img.shields.io/badge/Portfolio-wittsgarage.com-43255c?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
+<a href="https://adamewitt.com"><img src="https://img.shields.io/badge/Portfolio-adamewitt.com-43255c?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 <a href="https://blog.allthingsops.io"><img src="https://img.shields.io/badge/Blog-allthingsops.io-1f6feb?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="mailto:adam@wittsgarage.com"><img src="https://img.shields.io/badge/Email-adam%40wittsgarage.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.gg/baycity"><img src="https://img.shields.io/badge/Discord-baycity-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -41,23 +41,20 @@ alias:      wittyphantom333
 role:       Cloud / DevOps Engineer
 location:   The Cloud ☁️
 focus:
-  - Converting FiveM to run on Kubernetes ⛴️
+  - Shipping the NexusForever Launcher and Admin Panel 🚀
   - DevOps · MLOps · Microservices
 learning:
-  - Node.js
-  - React
-  - Go
+  - All things AI
 ask_me_about:
   - Lua, MySQL, Shell
   - Containers & architecture
 fun_fact:   "square + triangle = circle"
 ```
 
-- 🔭 Currently shipping → [**Converting FiveM to run on Kubernetes**](https://github.com/wittyphantom333/infrastructure-fivem)
-- 🌱 Leveling up in **Node.js · React · Go**
+- 🔭 Currently shipping → **NexusForever Launcher and Admin Panel**
+- 🌱 Leveling up in **all things AI**
 - 👯 Open to collab on [**anything DevOps / MLOps / Microservices**](https://github.com/wittyphantom333/ato-cli)
-- 🤝 Looking for help with [**Node.js**](https://github.com/wittyphantom333/react-app)
-- 👨‍💻 All my projects live at **[wittsgarage.com](https://wittsgarage.com)**
+- 👨‍💻 All my projects live at **[adamewitt.com](https://adamewitt.com)**
 - 📝 I write infra rants & how-tos at **[blog.allthingsops.io](https://blog.allthingsops.io)**
 - 📫 Reach me → **adam@wittsgarage.com**
 
