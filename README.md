@@ -119,12 +119,11 @@ fun_fact:   "square + triangle = circle"
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wittyphantom333&show_icons=true&hide_border=true&count_private=true&theme=dracula&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=wittyphantom333&hide_border=true&theme=dracula" />
+<img height="170" src="https://streak-stats.demolab.com/?user=wittyphantom333&hide_border=true&theme=dracula" />
 
 <br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyphantom333&hide_border=true&count_private=true&layout=compact&theme=dracula&langs_count=8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=wittyphantom333&hide_border=true&theme=dracula&layout=compact" />
 
 <br/><br/>
 
